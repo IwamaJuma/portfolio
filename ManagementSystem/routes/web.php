@@ -23,4 +23,4 @@ Route::post('working_reports/store','WorkingReportsController@store');
 
 //従業員一覧・詳細
 Route::get('employees','EmployeesController@index');
-Route::get('employees/detail','EmployeesController@detail');
+Route::get('employees/detail','EmployeesController@show');

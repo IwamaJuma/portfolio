@@ -25,5 +25,6 @@
                 </tr>
             @endforeach
         </table>
+        <p><a href="/ManagementSystem/public/employees">従業員一覧</a></p>
     </body>
 </html>
